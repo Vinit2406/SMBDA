@@ -1,4 +1,4 @@
-!pip install streamlit wordcloud matplotlib pandas
+
 
 import streamlit as st
 from wordcloud import WordCloud
